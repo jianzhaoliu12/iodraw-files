@@ -74,7 +74,7 @@
         <mxCell id="iBFifdX2WCBMqR9O8jBD-33" value="增强后的特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="291.80327868852464" y="721.1675416705053" width="136.39344262295086" height="41.98245832949466" as="geometry" />
         </mxCell>
-        <mxCell id="J0NUaSO9miEJasrW-QnH-5" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;1x1升维卷积&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="J0NUaSO9miEJasrW-QnH-5" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;1x1升维卷积&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; color: rgb(162, 40, 137);&quot;&gt;Sigmoid&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;激活&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="91.80491803278687" y="539.9975933672381" width="136.39344262295086" height="41.98245832949466" as="geometry" />
         </mxCell>
       </root>
