@@ -8,7 +8,7 @@
           <mxGeometry x="428.1967213114754" y="161.16608610368968" width="251.8032786885246" height="344.9558659406811" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-22" value="尺度注意力模块" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;fontSize=20;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="161.16608610368968" width="251.8032786885246" height="375.39314822956476" as="geometry" />
+          <mxGeometry x="40" y="161.17" width="240" height="375.39" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-0" value="特征图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="291.80327868852464" y="80" width="136.39344262295086" height="41.98245832949466" as="geometry" />
