@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="iBFifdX2WCBMqR9O8jBD-23" value="上下文特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iBFifdX2WCBMqR9O8jBD-23" value="上下文特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="161.17" width="240" height="398.83" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-22" value="尺度注意力模块" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;fontSize=20;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
