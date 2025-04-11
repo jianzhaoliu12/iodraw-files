@@ -16,7 +16,7 @@
         <mxCell id="iBFifdX2WCBMqR9O8jBD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-0" target="iBFifdX2WCBMqR9O8jBD-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iBFifdX2WCBMqR9O8jBD-0" value="Input Features" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="iBFifdX2WCBMqR9O8jBD-0" value="输入特性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="80" width="130.00000000000003" height="41.37931034482759" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-5" target="iBFifdX2WCBMqR9O8jBD-24" edge="1">
