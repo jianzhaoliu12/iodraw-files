@@ -66,28 +66,28 @@
           <mxGeometry x="68.52502385289266" y="539.9975933672381" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="l3QwQvwrIOGITRIapsEI-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="628.5211942452603" y="259.9480194308812" width="180.41894353369787" height="273.20203226585164" as="geometry" />
+          <mxGeometry x="628.52" y="259.95" width="131.48" height="270.05" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="l3QwQvwrIOGITRIapsEI-0" source="iBFifdX2WCBMqR9O8jBD-5" target="J0NUaSO9miEJasrW-QnH-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-5" value="1x1卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="l3QwQvwrIOGITRIapsEI-0" vertex="1">
-          <mxGeometry y="159.23983331797865" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry y="157.40262482994413" width="131.47683949905036" height="41.49809127645031" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="l3QwQvwrIOGITRIapsEI-0" source="iBFifdX2WCBMqR9O8jBD-6" target="iBFifdX2WCBMqR9O8jBD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-6" value="ReLU激活" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="l3QwQvwrIOGITRIapsEI-0" vertex="1">
-          <mxGeometry y="79.24491665898927" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry y="78.330638927809" width="131.47683949905036" height="41.49809127645031" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="l3QwQvwrIOGITRIapsEI-0" source="iBFifdX2WCBMqR9O8jBD-9" target="iBFifdX2WCBMqR9O8jBD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-9" value="3x3分组卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="l3QwQvwrIOGITRIapsEI-0" vertex="1">
-          <mxGeometry width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry width="131.47683949905036" height="41.49809127645031" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-10" value="&lt;div style=&quot;line-height: 19px; font-size: 14px;&quot;&gt;Sigmoid激活&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="l3QwQvwrIOGITRIapsEI-0" vertex="1">
-          <mxGeometry x="0.004336889582987169" y="231.21957393635694" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="0.003160500949639198" y="228.55190872354964" width="131.47683949905036" height="41.49809127645031" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
