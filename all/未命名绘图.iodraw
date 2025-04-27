@@ -19,7 +19,7 @@
           <mxGeometry x="600" y="204.39" width="197.46082474226802" height="314.44" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-23" value="上下文特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" parent="l3QwQvwrIOGITRIapsEI-2" vertex="1">
-          <mxGeometry x="-120" y="-84.39" width="160" height="398.83" as="geometry" />
+          <mxGeometry x="-120" y="-84.39" width="160" height="354.39" as="geometry" />
         </mxCell>
         <mxCell id="l3QwQvwrIOGITRIapsEI-3" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="160" width="120" height="361.98" as="geometry" />
