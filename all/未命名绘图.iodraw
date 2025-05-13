@@ -65,9 +65,6 @@
             <mxPoint x="452.5804014618447" y="174.95614582373662" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0NUaSO9miEJasrW-QnH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-17" target="J0NUaSO9miEJasrW-QnH-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-17" value="&lt;div style=&quot;line-height: 19px; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;1x1卷积升维&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-228.32" y="481.98" width="90" height="41.98" as="geometry" />
         </mxCell>
@@ -95,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-5" value="&lt;div style=&quot;line-height: 19px; font-size: 14px;&quot;&gt;Sigmoid激活&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-228.32" y="561.98" width="90" height="41.98" as="geometry" />
+          <mxGeometry x="-228.32" y="558.02" width="90" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-10" value="&lt;div style=&quot;line-height: 19px; font-size: 14px;&quot;&gt;Sigmoid激活&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="890.95" y="224.01999999999998" width="88.94" height="41.98" as="geometry" />
@@ -144,6 +141,9 @@
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-12" value="特征融合模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350.0030981397872" y="439.9975416705053" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+        </mxCell>
+        <mxCell id="SizLnCj13-hXlO1ae7zc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.155;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-17" target="J0NUaSO9miEJasrW-QnH-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
