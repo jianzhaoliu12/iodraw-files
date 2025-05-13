@@ -120,8 +120,11 @@
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-9" value="YOLOv8检测头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350.0030981397872" y="879.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
-        <mxCell id="ZMbO3vQK0WwXZwlyF48_-11" value="YOLOv8颈部网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370.0030981397872" y="819.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+        <mxCell id="ZMbO3vQK0WwXZwlyF48_-11" value="输出预测结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350.0030981397872" y="959.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMbO3vQK0WwXZwlyF48_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.208;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMbO3vQK0WwXZwlyF48_-9" target="ZMbO3vQK0WwXZwlyF48_-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
