@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1314" dy="2978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-33" value="YOLOv8颈部网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350.0030981397872" y="519.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="350.0030981397872" y="619.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-22" target="SizLnCj13-hXlO1ae7zc-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -116,13 +116,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-5" value="增强后的特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350.0030981397872" y="459.9975416705053" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="349.7930981397872" y="539.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-9" value="YOLOv8检测头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350.0030981397872" y="599.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="350.0030981397872" y="699.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-11" value="输出预测结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350.0030981397872" y="679.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="350.0030981397872" y="779.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=-0.208;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMbO3vQK0WwXZwlyF48_-9" target="ZMbO3vQK0WwXZwlyF48_-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -137,7 +137,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-10" value="特征拼接" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400.21" y="369.99999999999994" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="338.0199999999999" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SizLnCj13-hXlO1ae7zc-12" value="特征融合模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520.0030981397872" y="418.0175416705053" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
