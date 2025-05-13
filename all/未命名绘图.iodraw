@@ -104,7 +104,7 @@
         <mxCell id="iBFifdX2WCBMqR9O8jBD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="SizLnCj13-hXlO1ae7zc-27" source="iBFifdX2WCBMqR9O8jBD-18" target="iBFifdX2WCBMqR9O8jBD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iBFifdX2WCBMqR9O8jBD-18" value="&lt;div style=&quot;line-height: 19px; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 18px;&quot;&gt;ReLU激活&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=none;strokeColor=default;" parent="SizLnCj13-hXlO1ae7zc-27" vertex="1">
+        <mxCell id="iBFifdX2WCBMqR9O8jBD-18" value="&lt;div style=&quot;line-height: 19px; font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;ReLU激活&lt;/span&gt;&lt;/div&gt;" style="rounded=1;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=none;strokeColor=default;labelBackgroundColor=none;" parent="SizLnCj13-hXlO1ae7zc-27" vertex="1">
           <mxGeometry x="270" y="28.84" width="90" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-5" value="&lt;div style=&quot;line-height: 19px; font-size: 18px;&quot;&gt;Sigmoid激活&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;fillColor=none;" parent="SizLnCj13-hXlO1ae7zc-27" vertex="1">
