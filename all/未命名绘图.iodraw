@@ -97,7 +97,7 @@
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-1" value="输入图像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350.0030981397872" y="-130" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
-        <mxCell id="ZMbO3vQK0WwXZwlyF48_-2" value="特征图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMbO3vQK0WwXZwlyF48_-2" value="YOLOv8主干网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350.0030981397872" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
       </root>
