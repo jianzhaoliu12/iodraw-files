@@ -10,6 +10,11 @@
         <mxCell id="iBFifdX2WCBMqR9O8jBD-22" value="尺度注意力模块" style="rounded=0;whiteSpace=wrap;strokeColor=#000000;fontSize=14;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="161.17" width="317.4603174603174" height="438.83" as="geometry" />
         </mxCell>
+        <mxCell id="ZMbO3vQK0WwXZwlyF48_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-0" value="特征图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350.0030981397872" y="70" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
