@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-10" value="自适应池化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=none;" parent="SizLnCj13-hXlO1ae7zc-27" vertex="1">
-          <mxGeometry x="6.680000000000007" y="28.830000000000013" width="80" height="41.98" as="geometry" />
+          <mxGeometry x="6.68" y="28.83" width="93.32" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="SizLnCj13-hXlO1ae7zc-27" source="iBFifdX2WCBMqR9O8jBD-17" target="J0NUaSO9miEJasrW-QnH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
