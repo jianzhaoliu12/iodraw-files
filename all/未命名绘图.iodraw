@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="SizLnCj13-hXlO1ae7zc-6" value="双分支注意力机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SizLnCj13-hXlO1ae7zc-6" value="双分支注意力机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="160" width="1440" height="160" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-23" value="上下文特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
