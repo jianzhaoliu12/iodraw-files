@@ -107,7 +107,10 @@
           <mxGeometry x="350.0030981397872" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-5" value="增强后的特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360.0030981397872" y="721.1675416705053" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="350.0030981397872" y="721.1675416705053" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMbO3vQK0WwXZwlyF48_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMbO3vQK0WwXZwlyF48_-5" target="ZMbO3vQK0WwXZwlyF48_-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
