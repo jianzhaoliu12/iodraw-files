@@ -122,6 +122,9 @@
             <mxPoint x="430.4204014618446" y="703.9649634577686" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SizLnCj13-hXlO1ae7zc-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SizLnCj13-hXlO1ae7zc-10" target="iBFifdX2WCBMqR9O8jBD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-10" value="特征拼接" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390.41999999999996" y="640" width="80" height="80" as="geometry" />
         </mxCell>
