@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-10" value="&lt;div style=&quot;line-height: 19px; font-size: 18px;&quot;&gt;Sigmoid激活&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="555.63" y="420" width="88.94" height="40" as="geometry" />
+          <mxGeometry x="540" y="420" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMbO3vQK0WwXZwlyF48_-1" target="ZMbO3vQK0WwXZwlyF48_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-5" value="1x1卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="360" width="69.57" height="40" as="geometry" />
+          <mxGeometry x="560" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-27" value="" style="group;fontSize=18;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-230" y="205.01" width="650" height="80" as="geometry" />
