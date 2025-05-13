@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-17" value="&lt;div style=&quot;line-height: 19px; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 14px;&quot;&gt;1x1卷积升维&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="230" width="90" height="41.98" as="geometry" />
+          <mxGeometry x="40" y="230.01" width="90" height="41.98" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-18" target="iBFifdX2WCBMqR9O8jBD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
