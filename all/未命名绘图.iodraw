@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iBFifdX2WCBMqR9O8jBD-33" value="YOLOv8颈部网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="349.5830981397872" y="821.9775416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="349.5830981397872" y="749.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="J0NUaSO9miEJasrW-QnH-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-22" target="SizLnCj13-hXlO1ae7zc-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMbO3vQK0WwXZwlyF48_-5" value="增强后的特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="349.5830981397872" y="741.9775416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="349.5830981397872" y="679.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMbO3vQK0WwXZwlyF48_-9" target="ZMbO3vQK0WwXZwlyF48_-11">
           <mxGeometry relative="1" as="geometry" />
@@ -129,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-12" value="特征融合模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="349.79309813978716" y="661.9775416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
+          <mxGeometry x="349.5830981397872" y="609.9975416705054" width="180.41460664411488" height="41.98245832949466" as="geometry" />
         </mxCell>
         <mxCell id="SizLnCj13-hXlO1ae7zc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iBFifdX2WCBMqR9O8jBD-5" target="J0NUaSO9miEJasrW-QnH-10">
           <mxGeometry relative="1" as="geometry" />
